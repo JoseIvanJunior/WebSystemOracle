@@ -8,10 +8,10 @@ em um arquivo PDF.
 📋 Pré-requisitos
 De que coisas você precisa para instalar o software e como instalá-lo?
 Irá precisar dos seguintes programas:
-Banco de dados Oracle Database 21c Express Edition
-Asp .NET WebForms
-Crystal Reports
-Bootstrap	
+-	Banco de dados Oracle Database 21c Express Edition
+-	Asp .NET WebForms
+-	Crystal Reports
+-	Bootstrap	
 
 🔧 Instalação
 Para a execução do projeto em uma máquina local será preciso da instalação dos seguintes programas ditos em pré requisitos.
