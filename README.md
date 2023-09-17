@@ -15,7 +15,7 @@ Bootstrap
 
 🔧 Instalação
 Para a execução do projeto em uma máquina local será preciso da instalação dos seguintes programas ditos em pré requisitos.
-	-	Criar um banco de dados;
-	-	Importar as tabelas que estão no arquivo excel;
-	-	Criar duas views onde está o cálculo e a visualização do salário com o crédito e débito de cada pessoa separada pelo cargo;
-	-	Instalar o Crystal Reports para visualização em um arquivo PDF;
+	*	Criar um banco de dados;
+	*	Importar as tabelas que estão no arquivo excel;
+	*	Criar duas views onde está o cálculo e a visualização do salário com o crédito e débito de cada pessoa separada pelo cargo;
+	*	Instalar o Crystal Reports para visualização em um arquivo PDF;
